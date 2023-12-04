@@ -34,3 +34,10 @@ run python file
 after run the .py file , it will show Running on http://127.0.0.1:5001 . go to your bowser & open  http://127.0.0.1:5001 to interact with Healthcare Assistant
 
 note:make sure that you've created the '.html' file inside the 'templates' folder
+
+
+## Technologies used
+
+**Client:** HTML,CSS 
+
+**Server:** Python Flask
